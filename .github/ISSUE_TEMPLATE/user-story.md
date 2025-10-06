@@ -1,3 +1,11 @@
+---
+name: 🧑‍💻 User Story
+about: Create a new user story with acceptance criteria
+title: "As a [role], I need [function], so that [benefit]"
+labels: ["user story"]
+assignees: ""
+---
+
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
